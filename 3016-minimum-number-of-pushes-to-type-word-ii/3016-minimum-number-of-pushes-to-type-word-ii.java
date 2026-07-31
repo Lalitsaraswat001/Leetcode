@@ -1,0 +1,34 @@
+class Solution {
+    public int minimumPushes(String word) {
+        
+        int[] freq = new int[26];
+        
+        for (char ch : word.toCharArray()) {
+            freq[ch - 'a']++;
+        }
+
+        Arrays.sort(freq); //[0,0,0,.....,1,2,3,....]
+
+        int pushes = 1;
+        int count = 0;
+        int ans = 0;
+
+        // Traversing
+        for (int i = 25; i >= 0; i--) {
+            
+            if (freq[i] == 0) {
+                break;
+            }
+
+            ans += freq[i] * pushes;
+            count++;
+
+            if (count == 8) {
+                pushes++;
+                count = 0;
+            }
+        }
+
+        return ans;
+    }
+}
