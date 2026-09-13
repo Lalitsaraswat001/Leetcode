@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0058-length-of-last-word) |
 | [0767-reorganize-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -112,8 +113,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
