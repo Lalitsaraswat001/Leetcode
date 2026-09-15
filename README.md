@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
