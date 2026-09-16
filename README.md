@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
