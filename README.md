@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lalitsaraswat001/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2396-strictly-palindromic-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
