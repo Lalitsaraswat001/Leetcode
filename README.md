@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0412-fizz-buzz) |
 | [0767-reorganize-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1920-build-array-from-permutation) |
