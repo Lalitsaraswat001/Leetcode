@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0502-ipo) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0877-stone-game) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Matrix
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0502-ipo) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0767-reorganize-string) |
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
