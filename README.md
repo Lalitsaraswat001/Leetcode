@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
