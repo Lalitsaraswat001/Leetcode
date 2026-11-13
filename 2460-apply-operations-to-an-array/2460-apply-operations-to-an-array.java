@@ -7,7 +7,7 @@ class Solution {
             res[i] = nums[i];
         }
 
-        for(int i = 0; i<nums.length-1; i++){
+        for(int i = 0; i<res.length-1; i++){
             if(res[i] == res[i+1]){
                 res[i] = res[i]*2;
                 res[i+1] = 0;
