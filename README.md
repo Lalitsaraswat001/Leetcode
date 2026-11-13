@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2460-apply-operations-to-an-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lalitsaraswat001/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2396-strictly-palindromic-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Backtracking
 |  |
 | ------- |
