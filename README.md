@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lalitsaraswat001/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0767-reorganize-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1512-number-of-good-pairs](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lalitsaraswat001/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Bucket Sort
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0767-reorganize-string) |
+| [1512-number-of-good-pairs](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
