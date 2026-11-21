@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0767-reorganize-string) |
+| [1051-height-checker](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
@@ -320,5 +322,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
