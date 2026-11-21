@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0654-maximum-binary-tree](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -197,12 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1920-build-array-from-permutation) |
