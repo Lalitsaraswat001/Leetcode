@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0994-rotting-oranges](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1051-height-checker) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0200-number-of-islands) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
