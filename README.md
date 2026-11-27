@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Counting Sort
 |  |
 | ------- |
@@ -340,4 +343,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Lalitsaraswat001/Leetcode/tree/master/1051-height-checker) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Lalitsaraswat001/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
